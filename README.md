@@ -1,7 +1,9 @@
 # xv6-OS
 # START
 make clean
+
 make SCHEDPOL "flag"
+
 make qemu -nox SCHEDPOL "flag"
 ## flag
 1. DEFAULT - for round robin
