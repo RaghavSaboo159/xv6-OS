@@ -1,4 +1,10 @@
 # xv6-OS
+uploaded the pdf in which i have written the changes which i have done to the original xv6 OS.
+exclude the bonus part
+
+# REQUIREMENTS
+QEMU 3.0 or above
+
 # START
 make clean
 
